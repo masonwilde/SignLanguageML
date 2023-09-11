@@ -14,13 +14,12 @@ Disclaimer: A lot of this will center around American Sign Language as sign lang
 ### Research
 
 * [1][Modelling and Recognition of the Linguistic Components in American Sign Language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2757299/)
-* 
 
 ## Main Questions
 
 * What is the best ML model to train?
   * Likely a Neural Net...
-   
+
 * What kind of data needs to be collected to train on?
   * Components of Sign Language
     * Primary Components [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2757299/)
